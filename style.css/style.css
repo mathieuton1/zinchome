@@ -1,0 +1,59 @@
+body {
+	margin : 0px;
+	color: rgb(20, 20, 20);
+	background: rgb(245, 245, 245);
+	font-family: 'Open Sans', sans-serif;
+}
+h1{
+	color: #FCCA2C;
+	font-family: 'Lobster', cursive;
+	font-size: 60px;
+}
+
+h2	{
+	font-size: 24px;
+}
+p{
+	font-size: 16px;
+	line-height: : 10 px;
+}
+#header {
+	text-align: center;
+	padding-top: 120px;
+	padding-bottom: 210px;
+	color : white;
+	background: url("https://madimado.files.wordpress.com/2015/03/bienvenue-bg-1.jpg");
+
+}
+#sous {
+	font-size: 20px;
+	color: white;
+	line-height: : 10 px;
+}
+
+.fonction {
+	padding : 20px;
+	font-weight: 300
+}
+
+.fonction img {
+	padding : 20px;
+	border : 2px solid black;
+	border-radius: 50%;
+}
+
+
+#footer {
+	padding : 30px;
+	background: rgb(30,30,30);
+	color : lightgrey;
+}
+
+#footer a{
+	color: lightgrey;
+	font-size: 30px;
+}
+
+#footer a:hover {
+	color : white;
+}
